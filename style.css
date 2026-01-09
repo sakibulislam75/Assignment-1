@@ -45,7 +45,7 @@ nav ul {
 }
 
 .banner {
-    background-image: url('/ASSIGNMENTS-1/assets/hero-bg.png');
+    background-image: url('./assets/hero-bg.png');
     background-size: cover;
     background-position: center;
     min-height: 100vh;
